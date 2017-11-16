@@ -15,19 +15,19 @@ body {
 }
 
 a:link {
-    color:red;
+    color:silver;
 }
 
 a:visited {
-    color: yellow;
+    color: gold;
 }
 
 a:hover {
-    color: cyan;
+    color: bronze;
 }
 
 a:active {
-    color: purple;
+    color: copper;
 }
 
 /* Container system */
@@ -90,7 +90,7 @@ a:active {
 #biography {
     max-width: 250px;
     text-shadow: 1px 1px 0 #000000;
-	color: black;
+	color: blue;
 }
 
 /* Effects */
