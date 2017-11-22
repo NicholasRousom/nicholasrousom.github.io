@@ -254,12 +254,10 @@ footer {
 
 .copyright {
 	color: red;
-	text-align: left;
-	display:inline-block
+	text-align: center;
 }
 
 .axel {
 	color: red;
-	text-align: right;
-display: table-cell;
+	text-align: center;
 }
