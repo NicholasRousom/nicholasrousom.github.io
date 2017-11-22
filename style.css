@@ -240,3 +240,14 @@ canvas {
   100%{border-right: 0.08em solid #222;}
 }
 
+/*Maybe a footer*/
+footer { 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: #333;
+  width: 100%;
+  border-top: 5px solid #eee;
+  box-shadow: 10px -10px 10px #aaa;
+  height: 250px;
+}
