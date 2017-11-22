@@ -251,3 +251,13 @@ footer {
   box-shadow: 10px -10px 10px #aaa;
   height: auto;
 }
+
+.copyright {
+	color: red;
+	text-align: left;
+}
+
+.axel {
+	color: red;
+	text-align: right;
+}
