@@ -255,9 +255,11 @@ footer {
 .copyright {
 	color: red;
 	text-align: left;
+	display:inline-block
 }
 
 .axel {
 	color: red;
 	text-align: right;
+	display:inline-block
 }
